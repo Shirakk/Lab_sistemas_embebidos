@@ -1,2 +1,3 @@
-# Lab_sistemas_embebidos
-Codigo fuente para el proyecto de la materia de sistemas embebidos de la carrera de ingenieria en computacion de la UNRN
+# Sistema de desbloqueo de cerraduras con reconocimiento facial.
+
+### El presente trabajo tienen como objetivo crear un sistema de desbloqueo usando el lenguaje Python y la libreria OpenCV
